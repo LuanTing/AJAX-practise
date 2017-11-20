@@ -3,7 +3,7 @@ body {/* This property specifically for Mozilla browsers, which as of this writi
 	support multiple backgrounds; this property also repeated in ie.css for
 	Internet Explorer, which ignores these background properties in 
 	succession like this */
-    background: #007daa url(https://cn.bing.com/az/hprichbg/rb/Mellieha_ZH-CN10970369201_1920x1080.jpg)no-repeat;
+    background: #007daa url(img/bg-image.jpg)no-repeat;
     background-attachment:fixed;
 	
     font: 12px/18px "Lucida Grande", "Lucida Sans Unicode", Arial, sans-serif;
